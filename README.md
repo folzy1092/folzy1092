@@ -22,13 +22,6 @@ I build reliable backend services and explore practical AI integrations.
 Backend services  •  Python  •  APIs  •  Automation  •  AI integrations
 ```
 
-## GitHub activity
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=folzy1092&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Folzy's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=folzy1092&layout=compact&theme=tokyonight&hide_border=true" alt="Folzy's most used languages" />
-</div>
-
 ---
 
 <div align="center">
