@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**folzy1092/folzy1092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Folzy 👋
 
-Here are some ideas to get you started:
+### Backend Developer · Python · AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build reliable backend services and explore practical AI integrations.
+
+[![GitHub](https://img.shields.io/badge/GitHub-folzy1092-181717?style=for-the-badge&logo=github)](https://github.com/folzy1092)
+
+</div>
+
+## About me
+
+- Building backend systems with Python.
+- Interested in APIs, automation, and AI-powered products.
+- Focused on clean architecture, useful tooling, and shipping things that work.
+
+## Focus
+
+```text
+Backend services  •  Python  •  APIs  •  Automation  •  AI integrations
+```
+
+## GitHub activity
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=folzy1092&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Folzy's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=folzy1092&layout=compact&theme=tokyonight&hide_border=true" alt="Folzy's most used languages" />
+</div>
+
+---
+
+<div align="center">
+  <i>Open to interesting backend and AI projects.</i>
+</div>
