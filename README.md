@@ -1,29 +1,13 @@
 <div align="center">
 
-# Hey, I'm Folzy 👋
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Folzy. Backend Developer · Python · AI. I build reliable backend services and explore practical AI integrations."></picture>
 
-### Backend Developer · Python · AI
+<a href="https://github.com/folzy1092"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-github-dark.svg"><img src="assets/link-github-light.svg" width="24.3%" alt="GitHub: @folzy1092"></picture></a>&nbsp;<a href="https://folzy.ru"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-site-dark.svg"><img src="assets/link-site-light.svg" width="24.3%" alt="Website: folzy.ru"></picture></a>&nbsp;<a href="https://folzy.is-a.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-dev-dark.svg"><img src="assets/link-dev-light.svg" width="24.3%" alt="Dev site: folzy.is-a.dev"></picture></a>&nbsp;<a href="https://t.me/folzybio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-channel-dark.svg"><img src="assets/link-channel-light.svg" width="24.3%" alt="Channel: @folzybio"></picture></a>
 
-I build reliable backend services and explore practical AI integrations.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me: Building backend systems with Python. Interested in APIs, automation, and AI-powered products. Focused on clean architecture, useful tooling, and shipping things that work."></picture>
 
-[![GitHub](https://img.shields.io/badge/GitHub-folzy1092-181717?style=for-the-badge&logo=github)](https://github.com/folzy1092)
+<a href="https://github.com/folzy1092/Shadow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-shadow-dark.svg"><img src="assets/project-shadow-light.svg" width="49.6%" alt="Shadow"></picture></a>&nbsp;<a href="https://github.com/folzy1092/phototoemoji"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-phototoemoji-dark.svg"><img src="assets/project-phototoemoji-light.svg" width="49.6%" alt="phototoemoji"></picture></a><br><a href="https://github.com/folzy1092/Yandex-Game"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-epicbattle-dark.svg"><img src="assets/project-epicbattle-light.svg" width="49.6%" alt="Epic Battle 3D"></picture></a>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/private-dark.svg"><img src="assets/private-light.svg" width="49.6%" alt="Private: folzy-selfbot, lengubot"></picture>
 
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><img src="assets/footer-light.svg" width="100%" alt="Open to interesting backend and AI projects."></picture>
 
-## About me
-
-- Building backend systems with Python.
-- Interested in APIs, automation, and AI-powered products.
-- Focused on clean architecture, useful tooling, and shipping things that work.
-
-## Focus
-
-```text
-Backend services  •  Python  •  APIs  •  Automation  •  AI integrations
-```
-
----
-
-<div align="center">
-  <i>Open to interesting backend and AI projects.</i>
 </div>
